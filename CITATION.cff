@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+title: "EMM - Eilenberg-Mac Lane Machine"
+message: "If you use this software, please cite as below."
+type: software
+authors:
+  - family-names: "Clément"
+    given-names: "Alain"
+    orcid: "https://orcid.org/0000-0003-0448-9766"
+    email: "alain.clement@unil.ch"
+    affiliation: "Université de Lausanne"
+repository-code: "https://github.com/aclemen1/emm"
+keywords:
+  - algebraic topology
+  - Eilenberg-Mac Lane spaces
+  - integral cohomology
+  - computational algebra
+  - C++
+license: MIT
